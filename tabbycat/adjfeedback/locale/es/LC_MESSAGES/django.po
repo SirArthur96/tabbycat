@@ -23,7 +23,7 @@ msgstr ""
 
 #: adjfeedback/admin.py:73 adjfeedback/admin.py:139
 msgid "target"
-msgstr ""
+msgstr "objetivo"
 
 #: adjfeedback/admin.py:74 adjfeedback/admin.py:140 adjfeedback/models.py:236
 msgid "source adjudicator"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: adjfeedback/admin.py:96
 msgid "Target"
-msgstr ""
+msgstr "objetivo"
 
 #: adjfeedback/admin.py:97 adjfeedback/admin.py:162
 msgid "Source"
@@ -113,7 +113,7 @@ msgstr "Sí"
 #. Translators: Please leave this blank, it should be left for the base Django translations.
 #: adjfeedback/forms.py:59
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. Translators: Please leave this blank, it should be left for the base Django translations.
 #: adjfeedback/forms.py:74 adjfeedback/forms.py:83
@@ -127,12 +127,12 @@ msgstr "Puntaje general (%(min)d=peor;%(max)d=mejor)*"
 
 #: adjfeedback/forms.py:176
 msgid "Ignored"
-msgstr ""
+msgstr "Ignorado"
 
 #. Translators: e.g. "Megan Pearson (chair)", with adjpos="chair"
 #: adjfeedback/forms.py:228 adjfeedback/forms.py:291
 msgid "Submitted - "
-msgstr ""
+msgstr "Enviado"
 
 #. Translators: e.g. "Megan Pearson (panellist)", with round="Round 3", adjpos="panellist"
 #: adjfeedback/forms.py:229 adjfeedback/forms.py:296
